@@ -1,17 +1,17 @@
 {
   "product": "Pylse PC Optimizer",
-  "version": "2.2.0.105",
+  "version": "2.2.0.102",
   "fileName": "Pylse-PC-Optimizer.exe",
-  "downloadUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/download/r4-v2.2.0.105/Pylse-PC-Optimizer.exe",
-  "sizeBytes": 69203182,
-  "sha256": "5021BC25DAA2925338E4764EF0CBBBB897C2CF4E2850B7746F15157D756563E8",
-  "releaseDate": "2026-10-07T16:48:17Z",
-  "releaseNotes": "STAGING TEST RELEASE 2.2.0.105 (deliberately broken) - not for use. Starts, leaves a launch marker and exits without reporting health, so the updater must put the previous version back.",
+  "downloadUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/download/r4-v2.2.0.102/Pylse-PC-Optimizer.exe",
+  "sizeBytes": 66680586,
+  "sha256": "3FB471C6A25186DD144637B584F51A4657F11671D8D8017D2CA994D6175B477B",
+  "releaseDate": "2026-10-07T16:16:29Z",
+  "releaseNotes": "STAGING TEST RELEASE 2.2.0.102 - not for use. An installed staging build must detect, verify and install it.",
   "signed": false,
   "signingStatus": "Unsigned - Windows SmartScreen may warn",
   "minimumOs": "Windows 10 or 11, 64-bit",
-  "releasePageUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/tag/r4-v2.2.0.105",
+  "releasePageUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/tag/r4-v2.2.0.102",
   "channel": "staging",
   "signatureKeyId": "pylse-staging-202610071714",
-  "signature": "qj/yIr3Qw7F94SEj4ud47uVU4/iSyibyHn4qyD9ZAjZb3JwrH8fd/5QODUODbOy\u002BiewRuIYVDvlW7j4QQ9DXYg=="
+  "signature": "ol5EAoo2WGNJt56lTRxWlkKQ2yBKB0sFsglYCkQ3DXhkIxk2mpyfs6HIqdHZiTV1U0AKUFi3cSX5XHOirDAzBg=="
 }
