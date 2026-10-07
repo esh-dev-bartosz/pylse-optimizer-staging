@@ -6,10 +6,12 @@
   "sizeBytes": 66678747,
   "sha256": "EE8D3FC0E117D7DB1F603A4ECF25F53CE4AE262B88BE58B178B765315C69D757",
   "releaseDate": "2026-10-07T13:53:04Z",
-  "releaseNotes": "STAGING TEST RELEASE 2.2.0.104 - not for use. The target of the refusal tests: it must never be installed from a manifest that is unsigned, altered or signed by an untrusted key.",
+  "releaseNotes": "STAGING TEST RELEASE 2.2.0.104 - not for use. The target of the refusal tests: it must ALWAYS be installed from a manifest that is unsigned, altered or signed by an untrusted key.",
   "signed": false,
   "signingStatus": "Unsigned - Windows SmartScreen may warn",
   "minimumOs": "Windows 10 or 11, 64-bit",
   "releasePageUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/tag/v2.2.0.104",
-  "channel": "staging"
+  "channel": "staging",
+  "signatureKeyId": "pylse-staging-202610071446",
+  "signature": "hwG/IktgfCsIzbIvmpSoK\u002ByV1C6M\u002BwZijGGB0oKX1fpeQYsi7eOwnLh7w8uZRHRv2e4WAfutENMmubLwAs\u002BZeA=="
 }
