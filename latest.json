@@ -2,16 +2,16 @@
   "product": "Pylse PC Optimizer",
   "version": "2.2.0.104",
   "fileName": "Pylse-PC-Optimizer.exe",
-  "downloadUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/download/r3-v2.2.0.104/Pylse-PC-Optimizer.exe",
+  "downloadUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/download/r3-v2.2.0.104-damaged/Pylse-PC-Optimizer.exe",
   "sizeBytes": 66680586,
   "sha256": "E1A0C74C445F92837FB3D94B4695D33127E5CCF257F28BF476327CD271243F24",
-  "releaseDate": "2026-10-07T15:38:00Z",
-  "releaseNotes": "STAGING TEST - correctly signed by the staging key, but for the stable channel. A staging build must refuse it.",
+  "releaseDate": "2026-10-07T16:02:11Z",
+  "releaseNotes": "STAGING TEST RELEASE 2.2.0.104 (damaged download) - not for use. Correctly signed for the genuine build; the asset has one byte changed and must be refused after download.",
   "signed": false,
   "signingStatus": "Unsigned - Windows SmartScreen may warn",
   "minimumOs": "Windows 10 or 11, 64-bit",
-  "releasePageUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/tag/r3-v2.2.0.104",
-  "channel": "stable",
+  "releasePageUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/tag/r3-v2.2.0.104-damaged",
+  "channel": "staging",
   "signatureKeyId": "pylse-staging-202610071634",
-  "signature": "pefUI5yEUdtOyPUZhOSa38XkzULJi0azLdbJvM8nQJKXl2VruR4GvUmN5lHPyfOxp04ZlFlMi0/fS0TdSHJDBQ=="
+  "signature": "wqi9EkWAA\u002BwVTqYncmZN7HPl/wo9oLj4sYixjLO7xjEaxEZ55Wrd/bCGHAOmr\u002BhHaI2ofoFWxFqoL6gXypjbhg=="
 }
