@@ -1,17 +1,15 @@
 {
   "product": "Pylse PC Optimizer",
-  "version": "2.2.0.102",
+  "version": "2.2.0.104",
   "fileName": "Pylse-PC-Optimizer.exe",
-  "downloadUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/download/r2-v2.2.0.102/Pylse-PC-Optimizer.exe",
-  "sizeBytes": 66680301,
-  "sha256": "8E9A82701757C4B9B205C41212CE6FEB02C804A1C1E984086DA6FEC326DB0EEE",
-  "releaseDate": "2026-10-07T14:55:53Z",
-  "releaseNotes": "STAGING TEST RELEASE 2.2.0.102 - not for use. An installed staging build must detect, verify and install it.",
+  "downloadUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/download/r2-v2.2.0.104/Pylse-PC-Optimizer.exe",
+  "sizeBytes": 66680293,
+  "sha256": "C530EF8BE0BE213DB8C8B48DD92A6B1DA08B7186604AE8288C59370366A737B3",
+  "releaseDate": "2026-10-07T14:57:38Z",
+  "releaseNotes": "STAGING TEST RELEASE 2.2.0.104 - not for use. The target of the refusal tests: never installed from a manifest that is unsigned, altered, signed by an untrusted key or for another channel.",
   "signed": false,
   "signingStatus": "Unsigned - Windows SmartScreen may warn",
   "minimumOs": "Windows 10 or 11, 64-bit",
-  "releasePageUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/tag/r2-v2.2.0.102",
-  "channel": "staging",
-  "signatureKeyId": "pylse-staging-202610071550",
-  "signature": "ZdVx4HvyiU5x6rtV2dlvCvFNB9tKSSJH9\u002BS9Qnp0nGegKt/eXKXgkUe8b2I/Z\u002B0FtAAVunIlZ\u002Bg5RY6tmpV74w=="
+  "releasePageUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/tag/r2-v2.2.0.104",
+  "channel": "staging"
 }
