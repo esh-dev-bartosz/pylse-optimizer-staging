@@ -12,6 +12,6 @@
   "minimumOs": "Windows 10 or 11, 64-bit",
   "releasePageUrl": "https://github.com/esh-dev-bartosz/pylse-optimizer-staging/releases/tag/v2.2.0.104",
   "channel": "staging",
-  "signatureKeyId": "pylse-staging-untrusted-202610071446",
-  "signature": "PjuWa6tN9XEEHZnNh/xblst6JlW8sK4VpzLM2y1XbNjK//lAfg0lqYKY6MzA5imWXb1LOHqUyLLBoUKmvZutpQ=="
+  "signatureKeyId": "pylse-staging-202610071446",
+  "signature": "AXjrd6KmuFTZkwlU0E6QAn7j/5vORkxUvYxHycs\u002B0QJxOJDp3rTXNzXxs7dxdf2HO0dd7kpR3TBsfYkeYETl7A=="
 }
